@@ -4,8 +4,8 @@
 
 
 .cabecalho{
-    background-color: rgb(43, 131, 247);
-    color: rgb(45, 142, 226);
+    background-color: rgb(133, 133, 133);
+    color: rgb(51, 51, 51);
     display: flex;
     justify-content: space-around;
     padding: 24px 0;
@@ -32,7 +32,7 @@ a:hover {
 }
 
 a:active{
-    color: rgb(105, 144, 216);
+    color: rgb(155, 157, 161);
 
 }
 
@@ -43,7 +43,7 @@ a:active{
 }
 
 .escola{
-    background-image:linear-gradient( #424E61, #16CFF8) ;
+    background-image:linear-gradient( #424E61, #7d8181) ;
     color: white;
     display: flex;
     justify-content: center;
